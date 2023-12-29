@@ -1,9 +1,0 @@
-record1
-record2
-record3
-rec4
-rec5
-rec7
-rec8
-rec9
-rec10
