@@ -13,4 +13,3 @@ Example:
 ["M4A1", 6] => 1
 
 The return Will always be an integer so as the params.
-
